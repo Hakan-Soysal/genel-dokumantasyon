@@ -22,4 +22,4 @@ Her ünvan (üst ünvanlar da dahil) 3 ana (Junior,Mid ve Senior) ve 3 te alt se
 
 ## Değerlendirme süresi ve ücrete etkisi
 * Değerlendirmeler her yıl yapılır.
-* Değerlendirme sonucunda seviye, alt seviye yada ünvan değişikliği alanlar, normal zamlarının yanı sıra maaş düzeltmesi hak ederler.
+* Değerlendirme sonucunda seviye, alt seviye yada ünvan değişikliği alanlar, normal zamlarının yanı sıra **maaş düzeltmesi** hak ederler.
