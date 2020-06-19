@@ -8,7 +8,7 @@
 ## Süreçler
 Her ünvan (üst ünvanlar da dahil) 3 ana (Junior,Mid ve Senior) ve 3 te alt seviyesi vardır.
 ### 1. Developer Seviye Geçişleri
-* Alt seviye 3 e ulaşan developer lar bir sonraki değerlendirmelerinde seviye geçişi hak edip etmediği bir sonraki seviyenin sınama kuralı ile değerledirilerek karar seviye geçişine karar verilir.
+* Alt seviye 3 e ulaşan developer ların bir sonraki değerlendirmelerinde, seviye geçişi hak edip etmediği, bir sonraki seviyenin sınama kuralı ile değerledirilerek seviye geçişine karar verilir.
 ### 2. Developer Alt Seviye Geçişleri
 #### 1. Junior
 * Kullanılan programlama diline hakimiyet ve algoritma bilgisi sınav ile değerlendirilir.
